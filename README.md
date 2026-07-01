@@ -158,28 +158,20 @@ O projeto seguiu uma abordagem estruturada em 3 etapas principais:
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAlmeida)
 
 
-## ⭐ Este projeto faz parte do meu Bootcamp em Análise de Dados na TripleTen.
-````
 ## 📊 Resumo dos Insights para Investidores
-- Métrica	Insight
-- Produtos "âncora"	Banana é o item mais comum como primeira escolha (15.562 vezes)
-- Produtos mais vendidos	Hortifrúti e orgânicos dominam o top 20
-- Ciclo de compra	Padrão semanal forte (picos a cada 7, 14, 21, 28 dias)
-- Fidelidade	10 clientes com 100% de taxa de recompra
-- Ticket médio	10,10 itens por pedido
-- Horário de pico	Entre 9h e 17h (pico às 10h)
-- Dias de pico	Domingo e Segunda-feira
+ | Métrica | 	Insight | 
+ |------------|----------------|
+ | Produtos "âncora" | 	Banana é o item mais comum como primeira escolha (15.562 vezes) | 
+ | Produtos mais vendidos | 	Hortifrúti e orgânicos dominam o top 20 | 
+ | Ciclo de compra | 	Padrão semanal forte (picos a cada 7, 14, 21, 28 dias) | 
+ | Fidelidade | 	10 clientes com 100% de taxa de recompra | 
+ | Ticket médio | 	10,10 itens por pedido | 
+ | Horário de pico | 	Entre 9h e 17h (pico às 10h) | 
+ | Dias de pico | 	Domingo e Segunda-feira | 
+
 **Conclusão Estratégica: A plataforma é movida pela necessidade imediata e recorrência de produtos perecíveis. O valor real está na eficiência em entregar o "básico" (hortifrúti e orgânicos) com constância, garantindo fluxo de caixa semanal e retenção do usuário.**
-````
 
-````
-## 🎯 RESUMO DO QUE FAZER
 
-| Ação | Status |
-|------|--------|
-| Criar repositório `analise_comportamento_clientes_instacart` | ⬜ |
-| Fazer upload do arquivo `.ipynb` | ⬜ |
-| Adicionar README.md com o texto acima | ⬜ |
-| Adicionar tópico `tripleten` | ⬜ |
-| Fixar (pinned) no perfil | ⬜ |
-````
+
+
+## ⭐ Este projeto faz parte do meu Bootcamp em Análise de Dados na TripleTen.
